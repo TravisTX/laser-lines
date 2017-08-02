@@ -1,6 +1,8 @@
 # Laser Lines
 >A fun little typescript / html5 canvas project
 
+[**Live Demo**](http://travistx.me/laser-lines/)
+
 ## Built upon
 
 - [Webpack 3](https://webpack.js.org/)
@@ -11,8 +13,8 @@
 ## Clone
 
 ```bash
-git clone https://github.com/emyann/typescript-webpack-starter.git
-cd typescript-webpack-starter
+git clone https://github.com/TravisTX/laser-lines
+cd laser-lines
 # Install the dependencies
 npm install
 ```
